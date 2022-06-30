@@ -1,4 +1,5 @@
 const functionA = () => {
+    console.log('say hello');
     return 1;
 };
 
