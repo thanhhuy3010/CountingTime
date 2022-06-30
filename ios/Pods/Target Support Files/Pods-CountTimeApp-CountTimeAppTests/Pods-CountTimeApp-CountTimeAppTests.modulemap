@@ -1,0 +1,6 @@
+module Pods_CountTimeApp_CountTimeAppTests {
+  umbrella header "Pods-CountTimeApp-CountTimeAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
