@@ -4,4 +4,5 @@ const functionA = () => {
 
 const functionB = () => {
     console.log('B');
+    console.log('edit origin');
 };
