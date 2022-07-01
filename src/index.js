@@ -6,4 +6,5 @@ const functionB = () => {
     console.log('B');
     console.log('edit origin');
     alert('edit local branch B');
+    console.log('add cai khac');
 };
